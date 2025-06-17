@@ -1,4 +1,4 @@
-# FastAPI + Typesense Demo Application
+# FastAPI + Typesense Application
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688.svg)](https://fastapi.tiangolo.com/)
